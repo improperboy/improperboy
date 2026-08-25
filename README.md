@@ -1,4 +1,4 @@
-![logo](https://github.com/improperboy/improperboy/blob/main/githubbash.png)
+![logo](https://github.com/improperboy/improperboy/blob/main/image.png)
 <h1 align="center">Hi 👋, I'm Divyanshu Gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
