@@ -1,69 +1,182 @@
-![logo](https://github.com/improperboy/improperboy/blob/main/image.png)
-<h1 align="center">Hi 👋, I'm Divyanshu Gupta</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<div align="center">
 
-<img align="right" src="https://camo.githubusercontent.com/87af9a9fec730c94fc8b08eb21fa5ef6ab7831a67ba17bf8cc76696f6e4be1ef/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966" alt="coding" width="400px">
+<img src="./image.png" alt="Divyanshu Gupta Developer Logo" width="100%"/>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=improperboy&label=Profile%20views&color=0e75b6&style=flat" alt="improperboy" /> 
-</p>
+<br/>
 
----
+# 👋 Hi, I'm Divyanshu Gupta
 
-### 🚀 About Me  
-- 🌱 I’m currently learning **Backend, PHP, MySQL**  
-- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/improperboy)  
-- 💬 Ask me about **HTML5, CSS3, Bootstrap, JavaScript**  
-- 📫 Reach me at **divyanshuomar856@gmail.com**  
+### Full-Stack Developer • Backend Enthusiast • Problem Solver
+
+Building things, breaking things, learning how they work — and then building them better. 🚀
+
+</div>
 
 ---
 
-### 🔗 Connect with Me  
+## 👨‍💻 About Me
+
+I'm a Computer Science student and developer from India who enjoys turning ideas into **useful, practical software**.
+
+I started with frontend development and gradually moved deeper into the backend — learning how APIs, databases, authentication, architecture, and deployment work together to build complete applications.
+
+* 🔭 Currently focused on **Backend & Full-Stack Development**
+* 🌱 Learning **FastAPI, PostgreSQL, REST APIs & scalable backend architecture**
+* ⚙️ Interested in **APIs, databases, microservices & cloud deployment**
+* 🧠 Enjoy solving programming and real-world problems
+* 💡 Always experimenting with new technologies
+* 🤝 Open to collaboration, hackathons and interesting ideas
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
 <p align="left">
-  <a href="https://linkedin.com/in/divyanshu-gupta" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divyanshu gupta" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/_improper_boy" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_improper_boy" height="30" width="40" />
-  </a>
+<img src="https://skillicons.dev/icons?i=python,c,js" />
+</p>
+
+### 🌐 Frontend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
+</p>
+
+### ⚡ Backend & Database
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=fastapi,postgres,mysql" />
+</p>
+
+### ☁️ Tools & Technologies
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,docker,cloudflare,vscode" />
 </p>
 
 ---
 
-### 🛠 Languages & Tools  
-<p align="left">  
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-  </a> 
-</p>
+## 🧠 Currently Exploring
+
+```text
+Backend Development
+       ↓
+REST API Design
+       ↓
+Database Architecture
+       ↓
+Authentication & Security
+       ↓
+Microservices
+       ↓
+Docker & Cloud Deployment
+       ↓
+Scalable Systems
+```
 
 ---
 
-### 📊 Github Stats
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=improperboy&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+## ⚡ Development Philosophy
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=improperboy&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+> **Don't just make it work. Understand why it works.**
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=improperboy&" alt="GitHub Streak Stats" />
-</p>
+I believe the best way to learn development is by building, experimenting, debugging, and continuously improving.
 
+```text
+Learn → Build → Break → Debug → Improve → Repeat
+```
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=improperboy&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=improperboy&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=improperboy&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 My Developer Journey
+
+```text
+Frontend
+   │
+   ├── HTML
+   ├── CSS
+   ├── JavaScript
+   └── Bootstrap
+          │
+          ▼
+Programming
+   │
+   ├── C++
+   └── Python
+          │
+          ▼
+Backend
+   │
+   ├── PHP
+   ├── FastAPI
+   ├── REST APIs
+   └── Authentication
+          │
+          ▼
+Data
+   │
+   ├── MySQL
+   └── PostgreSQL
+          │
+          ▼
+Infrastructure
+   │
+   ├── Git & GitHub
+   ├── Docker
+   ├── Cloudflare
+   ├── AWS
+   └── Cloud Deployment
+```
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/improperboy">
+<img src="https://img.shields.io/badge/GitHub-improperboy-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/divyanshu-gupta-871aa8327/">
+<img src="https://img.shields.io/badge/LinkedIn-Divyanshu%20Gupta-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:divyanshuomar856@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 "Build things that solve problems."
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=improperboy&label=Profile%20Views&color=0e75b6&style=flat" />
+
+<br/><br/>
+
+**Thanks for visiting my profile! ⭐**
+
+</div>
